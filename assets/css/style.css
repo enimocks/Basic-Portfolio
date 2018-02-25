@@ -152,11 +152,7 @@ section li {
     float: left;
 }
 
-section a {
-    ove
-}
-
-section img {
+section a > img {
     width: 270px;
     padding: 1em;
     box-sizing: unset;
