@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, Times, "Times New Roman", serif;
 }
@@ -149,9 +148,7 @@ section li {
 }
 
 section a > img {
-    width: 270px;
     padding: 1em;
-    box-sizing: unset;
 }
 
 section h3 {
