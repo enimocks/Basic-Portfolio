@@ -22,6 +22,8 @@ body {
     margin: 0 auto;
 }
 
+
+/* Header display styles */
 .logo {
     padding: 1em;
     color: #fff;
@@ -40,6 +42,7 @@ header {
     border-bottom: 2px solid #cccccc;
 }
 
+/* NavBar styling */
 nav {
     display: inline-block;
     float: right;
@@ -118,10 +121,12 @@ aside h3 {
     font-weight: bold;
 }
 
+/* form input element stylings */
 input[type=text], input[type=email] {
     width: 100%;
     padding: 0.5em;
     margin: 0.25em 0;
+    color: #777777;
     font-size: 90%;
     opacity: 0.7;
 }
@@ -140,8 +145,10 @@ textarea {
     margin: 0.25em 0;
     border-color: rgb(238, 238, 238);
     height: 200px;
+    font-size: 16px;   
 }
 
+/* Portfolio (image gallery) */
 section li {
     float: left;
     height: 248px;
@@ -162,6 +169,7 @@ section h3 {
     bottom: 82px;
 }
 
+/* Footer */
 footer {
     position: fixed;
     left: 0;
